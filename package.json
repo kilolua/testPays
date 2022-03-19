@@ -1,0 +1,14 @@
+{
+    "name": "data-sub-test",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "mongodb",
+        "node",
+        "express",
+        "atlas",
+        "react"
+    ],
+    "author": "Nick Gladkov",
+    "license": ""
+}
